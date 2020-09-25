@@ -1,6 +1,6 @@
 # calculo_imc
 cálculo de imc.
-
+```
 peso = float(input('Digite seu peso'))
 h = float(input('Digite sua altura'))
 
